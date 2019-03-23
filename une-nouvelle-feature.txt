@@ -1,4 +1,4 @@
 youpe (une correction de la feature 2), j'ecris une ligne
-je corrige la feature 1
+je corrige la feature 1.2
 moi aussi je modifie le feature 1
 c'est la feature 3
